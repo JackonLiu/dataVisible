@@ -1,0 +1,37 @@
+# 获取鸢尾花数据，后面在运行代码时，都要先运行这段代码，以获取数据df
+from sklearn.datasets import load_iris
+import numpy as np
+iris = load_iris()    # 载入数据
+iris.data             # 查看数据
+iris                  # 查看数据的详细记录信息
+# 把数据转化为Data Frame
+from pandas import DataFrame
+df = DataFrame(iris.data, columns = iris.feature_names)
+df['target'] = iris.target      # 把分类也加上
+print(df)
+
+# 数据可视化
+import numpy as np
+import pandas as pd
+from scipy import stats, integrate
+import matplotlib.pyplot as plt
+## 在Jupyter中显示图像
+%matplotlib inline
+## 在视网膜屏幕上显示高清图片
+%config InlineBackend.figure_format = "retina"
+import seaborn as sns
+sns.set(color_codes = True)
+# 数据分布可视化，直方图和密度函数
+## distplot()函数默认绘出数据的直方图和核密度估计
+sns.distplot(df["petal length (cm)"], bins = 15)
+
+
+# 使用seaborn的jointplot()函数同时绘制散点图和直方图
+sns.jointplot(x = "sepal length (cm)", y = "sepal width (cm)", data = df, size = 8)
+
+
+## 分组散点图
+# 用seaborn's FaceGrid 标记不同的种类
+sns.FacetGrid(df, hue = 'target', size = 8).map(plt.scatter,
+                "sepal length (cm)", "sepal width (cm)").add_legend()
+plt.show()
