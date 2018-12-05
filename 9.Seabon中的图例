@@ -34,4 +34,18 @@ sns.jointplot(x = "sepal length (cm)", y = "sepal width (cm)", data = df, size =
 # 用seaborn's FaceGrid 标记不同的种类
 sns.FacetGrid(df, hue = 'target', size = 8).map(plt.scatter,
                 "sepal length (cm)", "sepal width (cm)").add_legend()
+
+## 六边形
+sns.axes_style("white")
+sns.jointplot(x = "sepal length (cm)", y = "petal length (cm)",
+             data = df, kind = "hex", color = "k")
+
+
+## 二维核密度估计图
+g = sns.jointplot(x = "sepal length (cm)", y = "petal length (cm)",
+                data = df, kind = "kde", color = "m")
+## 添加散点图
+g.plot_joint(plt.scatter, c = "w", s = 30, linewidth = 1, marker = "+")
+g.ax_joint.collections[0].set_alpha(0)
+
 plt.show()
