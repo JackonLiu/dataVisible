@@ -1,0 +1,13 @@
+##folium绘制地图
+import folium
+from folium import plugins
+import numpy as np
+import os
+##生成数据
+data = (np.random.normal(size = (100, 3)) *
+        np.array([[1, 1, 1]]) + 
+        np.array([[48, 5, 1]])).tolist()
+##绘制地图
+mapa = folium.Map([48., 5.], tiles = 'stamentoner', zoom_start = 6)
+mapa.add_child(plugins.HeatMap(data))
+mapa.save(os.path.join(r'F:\Python练习\BigData', 'Hearmap.html'))
