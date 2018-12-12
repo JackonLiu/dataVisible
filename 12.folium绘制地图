@@ -1,5 +1,5 @@
 ##folium绘制地图
-##folium包用到的地图为可交互地图，并且可以绘制各种所需要的地图。
+##folium包用到的地图为可交互地图，并且可以绘制各种所需要的地图。要安装folium包。pip install folium
 import folium
 from folium import plugins
 import numpy as np
