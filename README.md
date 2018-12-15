@@ -13,5 +13,6 @@ Python的主要作图库是Matplotlib，而pandas基于Matplotlib并对某些命
     plt.figure(figsize = (7, 5))                   #创建图像区域，指定比例
 
 做完图后，一般通过plt.show()来显示作图结果。
+
 在Jupyter Notebook中，最好能够把作图代码完整输入，否则可能会出现意想不到的问题。
 如果使用Matplotlib绘图，有时是弹不出图像框的，此时别忘了在开头加入“%matplotlib inline”。
