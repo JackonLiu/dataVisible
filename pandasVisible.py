@@ -16,9 +16,6 @@ import pandas as pd
 from scipy import stats, integrate
 import matplotlib.pyplot as plt
 ## 在Jupyter中显示图像
-%matplotlib inline
-## 在视网膜屏幕上显示高清图片
-%config InlineBackend.figure_format = "retina"
 import seaborn as sns
 sns.set(color_codes = True)
 
