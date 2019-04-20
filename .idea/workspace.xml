@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="182bedb5-3da5-458b-b3f8-2e96c14c0e61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_chengji.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bingtu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sandian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seaborn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiaoxing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zhifangtu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.一个圆形" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.pandas的一些可视化功能" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.networkx网络图" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.folium绘制地图" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.PIL图库" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.OpenCV图库" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.点图和线图" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.直方图" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.等值线图" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.三维曲面图" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.条形图" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.饼图" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.气泡图（散点图）" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.Seaborn中的图例" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="182bedb5-3da5-458b-b3f8-2e96c14c0e61" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +14,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5_chengji.csv">
-          <provider selected="true" editor-type-id="LargeFileEditor">
-            <state>
-              <caret column="68" selection-start-column="56" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="306">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#11#42#0" expanded="true" />
@@ -59,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seaborn.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="774">
-              <caret line="43" column="10" lean-forward="true" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+              <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
               <folding>
                 <element signature="e#114#152#0" expanded="true" />
               </folding>
@@ -95,6 +61,18 @@
             <state>
               <folding>
                 <element signature="e#18#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -187,8 +165,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="dataVisible" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataVisible" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,17 +258,18 @@
       <workItem from="1555209091479" duration="4179000" />
       <workItem from="1555216493482" duration="5042000" />
       <workItem from="1555763951276" duration="2898000" />
+      <workItem from="1555767484625" duration="417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12826000" />
+    <option name="totallyTimeSpent" value="13243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="25" width="1231" height="999" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17582418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1792054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,41 +301,16 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/1.一个圆形">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.folium绘制地图">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13.PIL图库">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14.OpenCV图库">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.pandas的一些可视化功能">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1.一个圆形" />
+    <entry file="file://$PROJECT_DIR$/12.folium绘制地图" />
+    <entry file="file://$PROJECT_DIR$/13.PIL图库" />
+    <entry file="file://$PROJECT_DIR$/14.OpenCV图库" />
+    <entry file="file://$PROJECT_DIR$/10.pandas的一些可视化功能" />
     <entry file="file://$USER_HOME$/anaconda3/envs/Custom-Object-Detection-master/lib/python3.7/site-packages/pandas/core/ops.py" />
     <entry file="file://$USER_HOME$/anaconda3/envs/Custom-Object-Detection-master/lib/python3.7/site-packages/pandas/core/generic.py" />
-    <entry file="file://$PROJECT_DIR$/11.networkx网络图">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.三维曲面图">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/11.networkx网络图" />
+    <entry file="file://$PROJECT_DIR$/5.三维曲面图" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/zhifangtu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -367,16 +321,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zhifangtu">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.点图和线图">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/zhifangtu" />
+    <entry file="file://$PROJECT_DIR$/2.点图和线图" />
     <entry file="file://$PROJECT_DIR$/tiaoxing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -387,37 +333,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.条形图">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.饼图">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" lean-forward="true" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.气泡图（散点图）">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/6.条形图" />
+    <entry file="file://$PROJECT_DIR$/7.饼图" />
+    <entry file="file://$PROJECT_DIR$/8.气泡图（散点图）" />
+    <entry file="file://$PROJECT_DIR$/9.Seaborn中的图例" />
+    <entry file="file://$PROJECT_DIR$/4.等值线图" />
     <entry file="file://$PROJECT_DIR$/5_chengji.csv">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state>
@@ -425,17 +345,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9.Seaborn中的图例">
+    <entry file="file://$PROJECT_DIR$/sandian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="121" lean-forward="true" selection-end-line="152" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.等值线图">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#11#42#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -453,13 +369,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/circle.py">
+    <entry file="file://$PROJECT_DIR$/OpenCVphoto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -475,10 +388,23 @@
     <entry file="file://$PROJECT_DIR$/PILphoto.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCVphoto.py">
+    <entry file="file://$PROJECT_DIR$/seaborn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="774">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+          <folding>
+            <element signature="e#114#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -491,22 +417,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandian.py">
+    <entry file="file://$PROJECT_DIR$/data_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="432">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <element signature="e#11#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seaborn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="43" column="10" lean-forward="true" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
-          <folding>
-            <element signature="e#114#152#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
