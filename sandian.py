@@ -14,7 +14,7 @@ colors = ["#99CC01", "#FFFF01", "#0000FE", "#FE0000", "#A6A6A6", "#D9E021",
 
 # 创建气泡图SepalLength为x, SepaWidth为y, 同时设置PetalLength为气泡大小，并设置颜色透明度等
 ax.scatter(df_data['SepalLength'], df_data['SepalWidth'],
-           s=df_data['PetalLength'] * 100, color=colors, alpha=0.6)
+           s=df_data['PetalLength'], alpha=0.6)
 # 第三个变量声明根据[PeralLength] * 100数据显示气泡大小
 
 ax.set_xlabel('SepalLength(cm)')
