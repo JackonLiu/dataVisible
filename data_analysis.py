@@ -10,6 +10,7 @@ from props import history_score
 
 font_set = FontProperties(fname=r"/home/lxp/文档/others/simsun.ttc", size=15)
 csv_data = pd.read_csv('5_chengji.csv')
+student = pd.read_csv('2_student_info.csv')
 '汇总各个科目班级历史最高分趋势和历史最低分趋势'
 "分析各个班级平均分、原始分、绝对分排名，支持总分和单科目；"
 "对班级学生排名分布情况进行统计，包括总分和单科目；"
